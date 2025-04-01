@@ -10,3 +10,4 @@ dist
 *.tgz
 *.zip
 *~
+.env

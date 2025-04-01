@@ -3,8 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "packageManager": "pnpm@10.4.1",
+  "type": "module",
   "scripts": {
-    "build": "echo 'build'",
+    "build": "sponsorkit",
     "fix": "pnpm run --parallel --color \"/^fix:/\"",
     "fix:eslint": "eslint . --fix",
     "fix:knip": "knip --fix --no-exit-code",
