@@ -1,0 +1,54 @@
+{
+  "name": "@kazupon/sponsors",
+  "private": true,
+  "version": "0.0.0",
+  "packageManager": "pnpm@10.4.1",
+  "scripts": {
+    "build": "echo 'build'",
+    "fix": "pnpm run --parallel --color \"/^fix:/\"",
+    "fix:eslint": "eslint . --fix",
+    "fix:knip": "knip --fix --no-exit-code",
+    "fix:prettier": "prettier . --write",
+    "lint": "pnpm run --parallel --color \"/^lint:/\"",
+    "lint:eslint": "eslint .",
+    "lint:knip": "knip",
+    "lint:prettier": "prettier . --check",
+    "prepack": "pnpm build",
+    "prepare": "git config --local core.hooksPath .githooks"
+  },
+  "devDependencies": {
+    "@eslint/markdown": "^6.3.0",
+    "@kazupon/eslint-config": "^0.26.1",
+    "@kazupon/prettier-config": "^0.1.1",
+    "@types/node": "^22.13.15",
+    "eslint": "^9.23.0",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-jsonc": "^2.20.0",
+    "eslint-plugin-yml": "^1.17.0",
+    "knip": "^5.46.4",
+    "lint-staged": "^15.5.0",
+    "prettier": "^3.5.3",
+    "sponsorkit": "^16.4.2",
+    "typescript": "^5.8.2",
+    "typescript-eslint": "^8.29.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
+  },
+  "prettier": "@kazupon/prettier-config",
+  "lint-staged": {
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write",
+      "eslint --fix"
+    ],
+    "*.{js,mjs,cjs}": [
+      "prettier --write",
+      "eslint --fix"
+    ],
+    "*.{json,jsonc,json5,md,yml,yaml}": [
+      "prettier --write"
+    ]
+  }
+}
