@@ -40,11 +40,9 @@ jobs:
           SPONSORKIT_GITHUB_TYPE: user
 
       - name: Commit
-        uses: EndBug/add-and-commit@v9
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          author_name: GitHub Actions
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: 'chore: update sponsors [ci skip]'
-          add: 'sponsors.*'
+          branch: main
+          file_pattern: 'sponsors.*'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
