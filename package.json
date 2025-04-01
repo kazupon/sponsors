@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "sponsorkit",
+    "clean": "git clean -df",
     "fix": "pnpm run --parallel --color \"/^fix:/\"",
     "fix:eslint": "eslint . --fix",
     "fix:knip": "knip --fix --no-exit-code",

@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Plaid, Inc.",
+    "login": "plaidev",
+    "avatar": "https://avatars.githubusercontent.com/u/5219279?s=200&v=4",
+    "amount": null,
+    "link": "https://plaid.co.jp/",
+    "org": true
+  },
+  {
+    "name": "ZEN ARCHITECTS Co.,Ltd.",
+    "login": "zenarchitects",
+    "avatar": "https://avatars.githubusercontent.com/u/22952383?v=4",
+    "amount": 1000,
+    "link": "https://github.com/zenarchitects",
+    "org": true
+  },
+  {
+    "name": "Crowdin",
+    "login": "crowdin",
+    "avatar": "https://avatars.githubusercontent.com/u/861398?v=4",
+    "amount": 500,
+    "link": "https://github.com/crowdin",
+    "org": true
+  },
+  {
+    "name": "Localazy",
+    "login": "localazy",
+    "avatar": "https://avatars.githubusercontent.com/u/59409404?v=4",
+    "amount": 500,
+    "link": "https://github.com/localazy",
+    "org": true
+  },
+  {
+    "name": "NuxtLabs",
+    "login": "nuxtlabs",
+    "avatar": "https://avatars.githubusercontent.com/u/62017400?v=4",
+    "amount": 250,
+    "link": "https://github.com/nuxtlabs",
+    "org": true
+  },
+  {
+    "name": "Route4Me Route Planner",
+    "login": "route4me",
+    "avatar": "https://avatars.githubusercontent.com/u/7936820?v=4",
+    "amount": 100,
+    "link": "https://github.com/route4me",
+    "org": true
+  },
+  {
+    "name": "Froggly",
+    "login": "RocketSoftPL",
+    "avatar": "https://avatars.githubusercontent.com/u/79277835?v=4",
+    "amount": 100,
+    "link": "https://github.com/RocketSoftPL",
+    "org": true
+  },
+  {
+    "name": "Kazuyuki Miyake",
+    "login": "k-miyake",
+    "avatar": "https://avatars.githubusercontent.com/u/1104403?u=4f4cedddcc848e62cd8f5c1677a8be3485308b7a&v=4",
+    "amount": 100,
+    "link": "https://github.com/k-miyake",
+    "org": false
+  },
+  {
+    "name": "ubugeeei",
+    "login": "ubugeeei",
+    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
+    "amount": 20,
+    "link": "https://github.com/ubugeeei",
+    "org": false
+  },
+  {
+    "name": "Numberly",
+    "login": "numberly",
+    "avatar": "https://avatars.githubusercontent.com/u/5330219?v=4",
+    "amount": 20,
+    "link": "https://github.com/numberly",
+    "org": true
+  },
+  {
+    "name": "Jason Landbridge",
+    "login": "JasonLandbridge",
+    "avatar": "https://avatars.githubusercontent.com/u/15127381?u=16215285493d7f76868abda2443a5a406a9c6355&v=4",
+    "amount": 10,
+    "link": "https://github.com/JasonLandbridge",
+    "org": false
+  },
+  {
+    "name": "Buttondown",
+    "login": "buttondown",
+    "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
+    "amount": 10,
+    "link": "https://github.com/buttondown",
+    "org": true
+  },
+  {
+    "name": "syumai",
+    "login": "syumai",
+    "avatar": "https://avatars.githubusercontent.com/u/6882878?u=2d5e172e88d5a615743abfb5d92034273ab753dd&v=4",
+    "amount": 10,
+    "link": "https://github.com/syumai",
+    "org": false
+  },
+  {
+    "name": "SmartDok",
+    "login": "SmartDok",
+    "avatar": "https://avatars.githubusercontent.com/u/19929201?v=4",
+    "amount": 10,
+    "link": "https://github.com/SmartDok",
+    "org": true
+  },
+  {
+    "name": "Masaya Kazama",
+    "login": "miyaoka",
+    "avatar": "https://avatars.githubusercontent.com/u/1443118?u=f6a578a21c6901332ab81d7529c1f5e7729d612c&v=4",
+    "amount": 10,
+    "link": "https://github.com/miyaoka",
+    "org": false
+  },
+  {
+    "name": "OKI Yoshiya",
+    "login": "448jp",
+    "avatar": "https://avatars.githubusercontent.com/u/1371326?u=1e1004509de0d63110c9775b2b242adda239875a&v=4",
+    "amount": 10,
+    "link": "https://github.com/448jp",
+    "org": false
+  },
+  {
+    "name": "Eduardo San Martin Morote",
+    "login": "posva",
+    "avatar": "https://avatars.githubusercontent.com/u/664177?u=ded1e1cffd1d5620c9d9fb1a1c966c17204d6bef&v=4",
+    "amount": 10,
+    "link": "https://github.com/posva",
+    "org": false
+  },
+  {
+    "name": "Marco Solazzi",
+    "login": "dwightjack",
+    "avatar": "https://avatars.githubusercontent.com/u/104721?u=71fc42acc26ef894f084ca1080d60070072c9569&v=4",
+    "amount": 5,
+    "link": "https://github.com/dwightjack",
+    "org": false
+  },
+  {
+    "name": "Jinjiang",
+    "login": "Jinjiang",
+    "avatar": "https://avatars.githubusercontent.com/u/206848?u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4",
+    "amount": 5,
+    "link": "https://github.com/Jinjiang",
+    "org": false
+  },
+  {
+    "name": "Akiho Nagao",
+    "login": "akifo",
+    "avatar": "https://avatars.githubusercontent.com/u/7263054?u=345f097513ac1ce36dc10e8e1ac829c1840418b0&v=4",
+    "amount": 5,
+    "link": "https://github.com/akifo",
+    "org": false
+  },
+  {
+    "name": "Shun Watanabe",
+    "login": "shika358",
+    "avatar": "https://avatars.githubusercontent.com/u/16434975?u=bb3ca4e36931f228b89830abad0883d4a478e16a&v=4",
+    "amount": 5,
+    "link": "https://github.com/shika358",
+    "org": false
+  },
+  {
+    "name": "Yosuke Furukawa",
+    "login": "yosuke-furukawa",
+    "avatar": "https://avatars.githubusercontent.com/u/555645?v=4",
+    "amount": 1,
+    "link": "https://github.com/yosuke-furukawa",
+    "org": false
+  },
+  {
+    "name": "Microsoft",
+    "login": "microsoft",
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "amount": -1,
+    "link": "https://github.com/microsoft",
+    "org": true
+  },
+  {
+    "name": "LanguageMonster.com",
+    "login": "LanguageMonster-com",
+    "avatar": "https://avatars.githubusercontent.com/u/169050832?v=4",
+    "amount": -1,
+    "link": "https://github.com/LanguageMonster-com",
+    "org": true
+  },
+  {
+    "name": "Onur Usluca",
+    "login": "onurusluca",
+    "avatar": "https://avatars.githubusercontent.com/u/51825926?u=a8c8be430037088054011bb286156405f20e8b4f&v=4",
+    "amount": -1,
+    "link": "https://github.com/onurusluca",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "VeselyJan92",
+    "avatar": "https://avatars.githubusercontent.com/u/18723841?v=4",
+    "amount": -1,
+    "link": "https://github.com/VeselyJan92",
+    "org": false
+  },
+  {
+    "name": "FormKit",
+    "login": "formkit",
+    "avatar": "https://avatars.githubusercontent.com/u/76744415?v=4",
+    "amount": -1,
+    "link": "https://github.com/formkit",
+    "org": true
+  },
+  {
+    "name": "Oliver Tacke",
+    "login": "otacke",
+    "avatar": "https://avatars.githubusercontent.com/u/16688047?v=4",
+    "amount": -1,
+    "link": "https://github.com/otacke",
+    "org": false
+  },
+  {
+    "name": "Heiko Peuscher",
+    "login": "hpeuscher",
+    "avatar": "https://avatars.githubusercontent.com/u/59748955?u=38981aa994d48314ef3843df1c58abb0ba50c2bf&v=4",
+    "amount": -1,
+    "link": "https://github.com/hpeuscher",
+    "org": false
+  },
+  {
+    "name": "Konstantin BIFERT",
+    "login": "kissu",
+    "avatar": "https://avatars.githubusercontent.com/u/5133074?u=5eddeda68548c1ea72460c75ee957289c96478e0&v=4",
+    "amount": -1,
+    "link": "https://github.com/kissu",
+    "org": false
+  },
+  {
+    "name": "GitHub",
+    "login": "github",
+    "avatar": "https://avatars.githubusercontent.com/u/9919?v=4",
+    "amount": -1,
+    "link": "https://github.com/github",
+    "org": true
+  },
+  {
+    "name": "Sendcloud",
+    "login": "SendCloud",
+    "avatar": "https://avatars.githubusercontent.com/u/7831959?v=4",
+    "amount": -1,
+    "link": "https://github.com/SendCloud",
+    "org": true
+  },
+  {
+    "name": "Marek Vospel",
+    "login": "marekvospel",
+    "avatar": "https://avatars.githubusercontent.com/u/73162071?u=4b667d19a1853c7e637ec7db352ce1fc11696c39&v=4",
+    "amount": -1,
+    "link": "https://github.com/marekvospel",
+    "org": false
+  },
+  {
+    "name": "Dmitriy Brolnickij",
+    "login": "brolnickij",
+    "avatar": "https://avatars.githubusercontent.com/u/10180323?u=0bd4f00886eea9b7437161a88e69e27c58584386&v=4",
+    "amount": -1,
+    "link": "https://github.com/brolnickij",
+    "org": false
+  },
+  {
+    "name": "Jess",
+    "login": "JessicaSachs",
+    "avatar": "https://avatars.githubusercontent.com/u/2801156?u=73d135070dd572a64d4a3ad271d682b975b0f061&v=4",
+    "amount": -1,
+    "link": "https://github.com/JessicaSachs",
+    "org": false
+  },
+  {
+    "name": "Serhii Bedrytskyi",
+    "login": "bdrtsky",
+    "avatar": "https://avatars.githubusercontent.com/u/45076741?u=3a58c8006fa6698af1d1ecfa7ed2410eb2f55101&v=4",
+    "amount": -1,
+    "link": "https://github.com/bdrtsky",
+    "org": false
+  },
+  {
+    "name": "rry",
+    "login": "ryamakuchi",
+    "avatar": "https://avatars.githubusercontent.com/u/35450730?u=71e444c8ae1c415e2baa5b0a92c8a3e29aebc5a9&v=4",
+    "amount": -1,
+    "link": "https://github.com/ryamakuchi",
+    "org": false
+  },
+  {
+    "name": "富田",
+    "login": "ToMGitHubN",
+    "avatar": "https://avatars.githubusercontent.com/u/17189935?u=e6fbb0fb9012fa9b39d6062d21a5321f5c8e9535&v=4",
+    "amount": -1,
+    "link": "https://github.com/ToMGitHubN",
+    "org": false
+  },
+  {
+    "name": "Storyblok",
+    "login": "storyblok",
+    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
+    "amount": -1,
+    "link": "https://github.com/storyblok",
+    "org": true
+  },
+  {
+    "name": "Lee",
+    "login": "PeterAlfredLee",
+    "avatar": "https://avatars.githubusercontent.com/u/55973914?v=4",
+    "amount": -1,
+    "link": "https://github.com/PeterAlfredLee",
+    "org": false
+  },
+  {
+    "name": "Nokia (Rapid)",
+    "login": "RapidAPI",
+    "avatar": "https://avatars.githubusercontent.com/u/16919504?v=4",
+    "amount": -1,
+    "link": "https://github.com/RapidAPI",
+    "org": true
+  },
+  {
+    "name": "Sam Yamashita",
+    "login": "sotayamashita",
+    "avatar": "https://avatars.githubusercontent.com/u/1587053?u=5de521cb0130f3e3fc887931ff5ddc13938984a5&v=4",
+    "amount": -1,
+    "link": "https://github.com/sotayamashita",
+    "org": false
+  },
+  {
+    "name": "Okuto Oyama",
+    "login": "yamanoku",
+    "avatar": "https://avatars.githubusercontent.com/u/1996642?u=27d225e1fdafbab041e5d9cddbf725b52e5227c3&v=4",
+    "amount": -1,
+    "link": "https://github.com/yamanoku",
+    "org": false
+  },
+  {
+    "name": "Nahoko Ushirokawa",
+    "login": "nahokoxxx",
+    "avatar": "https://avatars.githubusercontent.com/u/12132975?u=fdfb6fca8f50f2c35939d53b6cdc11e241b2c2c5&v=4",
+    "amount": -1,
+    "link": "https://github.com/nahokoxxx",
+    "org": false
+  },
+  {
+    "name": "Kazuhiro Ebara",
+    "login": "ebarakazuhiro",
+    "avatar": "https://avatars.githubusercontent.com/u/7248391?u=a2cdaba18190f1c60c0f7ab6b8cbcc4ee714ab9f&v=4",
+    "amount": -1,
+    "link": "https://github.com/ebarakazuhiro",
+    "org": false
+  },
+  {
+    "name": "Janne Kurkinen",
+    "login": "ux-engineer",
+    "avatar": "https://avatars.githubusercontent.com/u/1790545?u=f2b0d79ae134d70a47db8eb955f52ef62c4f951e&v=4",
+    "amount": -1,
+    "link": "https://github.com/ux-engineer",
+    "org": false
+  },
+  {
+    "name": "Maxime",
+    "login": "Kayoshi-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/28494879?u=da15ca6284b7a805675281e0736cabfb4bc75717&v=4",
+    "amount": -1,
+    "link": "https://github.com/Kayoshi-dev",
+    "org": false
+  },
+  {
+    "name": "Ilias Ism",
+    "login": "Illyism",
+    "avatar": "https://avatars.githubusercontent.com/u/304283?u=1ec71af713fe70f83b7adaf93e64e836232b32de&v=4",
+    "amount": -1,
+    "link": "https://github.com/Illyism",
+    "org": false
+  },
+  {
+    "name": "Gregg Pollack",
+    "login": "Gregg",
+    "avatar": "https://avatars.githubusercontent.com/u/2618?u=38dab3e5f9988a9a1277ff47e967443c733e22be&v=4",
+    "amount": -1,
+    "link": "https://github.com/Gregg",
+    "org": false
+  },
+  {
+    "name": "Nuxt",
+    "login": "nuxt",
+    "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4",
+    "amount": -1,
+    "link": "https://github.com/nuxt",
+    "org": true
+  },
+  {
+    "name": "CellaJS",
+    "login": "cellajs",
+    "avatar": "https://avatars.githubusercontent.com/u/150680334?v=4",
+    "amount": -1,
+    "link": "https://github.com/cellajs",
+    "org": true
+  },
+  {
+    "name": "Ben Hong",
+    "login": "bencodezen",
+    "avatar": "https://avatars.githubusercontent.com/u/4836334?u=aacee61efe3325ef286398c8673d9f4bd473eb56&v=4",
+    "amount": -1,
+    "link": "https://github.com/bencodezen",
+    "org": false
+  },
+  {
+    "name": "Carlos Rufo",
+    "login": "itscarlosrufo",
+    "avatar": "https://avatars.githubusercontent.com/u/9881700?u=37c8d43a5665b163706f599d2947f7445471792a&v=4",
+    "amount": -1,
+    "link": "https://github.com/itscarlosrufo",
+    "org": false
+  },
+  {
+    "name": "ushironoko",
+    "login": "ushironoko",
+    "avatar": "https://avatars.githubusercontent.com/u/30229874?u=eb928e2123ca83f8bbc83e04a2c2482b9c1ac225&v=4",
+    "amount": -1,
+    "link": "https://github.com/ushironoko",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "timdrijvers",
+    "avatar": "https://avatars.githubusercontent.com/u/1694939?u=e1952a6556a2f72ab5e47dd73ecdeeb6a1f2898f&v=4",
+    "amount": -1,
+    "link": "https://github.com/timdrijvers",
+    "org": false
+  },
+  {
+    "name": "Shuhei Nagasawa",
+    "login": "snagasawa",
+    "avatar": "https://avatars.githubusercontent.com/u/10294280?u=82017fbaac0787c444dbe5d42197ca6ec7b01bd0&v=4",
+    "amount": -1,
+    "link": "https://github.com/snagasawa",
+    "org": false
+  },
+  {
+    "name": "Justin Duke",
+    "login": "jmduke",
+    "avatar": "https://avatars.githubusercontent.com/u/461046?u=1f9a13559d572173272118d4bcbab17937178f6e&v=4",
+    "amount": -1,
+    "link": "https://github.com/jmduke",
+    "org": false
+  },
+  {
+    "name": "Damiano Fusco",
+    "login": "damianof",
+    "avatar": "https://avatars.githubusercontent.com/u/1753185?u=e1cb8c235e576b364f58dd150d1b081233ac4407&v=4",
+    "amount": -1,
+    "link": "https://github.com/damianof",
+    "org": false
+  },
+  {
+    "name": "Takuma HANATANI",
+    "login": "potato4d",
+    "avatar": "https://avatars.githubusercontent.com/u/6993514?u=c792fee61377539e732dd9085109d074945bc1ce&v=4",
+    "amount": -1,
+    "link": "https://github.com/potato4d",
+    "org": false
+  },
+  {
+    "name": "fukumura",
+    "login": "fukumura",
+    "avatar": "https://avatars.githubusercontent.com/u/353590?u=861f0f6738a5663acd3bf9f8146aac0e2de2e729&v=4",
+    "amount": -1,
+    "link": "https://github.com/fukumura",
+    "org": false
+  },
+  {
+    "name": "ex-kimura",
+    "login": "ex-kimura",
+    "avatar": "https://avatars.githubusercontent.com/u/60215365?u=8756228e08047e44c57cd1573e2dd7fd4a414dfa&v=4",
+    "amount": -1,
+    "link": "https://github.com/ex-kimura",
+    "org": false
+  },
+  {
+    "name": "Andrew LeTourneau",
+    "login": "centerorbit",
+    "avatar": "https://avatars.githubusercontent.com/u/2807807?v=4",
+    "amount": -1,
+    "link": "https://github.com/centerorbit",
+    "org": false
+  },
+  {
+    "name": "Chunyang Huo",
+    "login": "HcySunYang",
+    "avatar": "https://avatars.githubusercontent.com/u/14146560?u=6da14d6bbda433a40e2d664980d6b112ee06ffc8&v=4",
+    "amount": -1,
+    "link": "https://github.com/HcySunYang",
+    "org": false
+  },
+  {
+    "name": "Tatsuya Nakano",
+    "login": "howdy39",
+    "avatar": "https://avatars.githubusercontent.com/u/6329532?u=bbab1f90d59c5cb8e36636390b5ff1cdefd38b25&v=4",
+    "amount": -1,
+    "link": "https://github.com/howdy39",
+    "org": false
+  },
+  {
+    "name": "Katashin",
+    "login": "ktsn",
+    "avatar": "https://avatars.githubusercontent.com/u/2194624?v=4",
+    "amount": -1,
+    "link": "https://github.com/ktsn",
+    "org": false
+  }
+]
