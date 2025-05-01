@@ -72,14 +72,6 @@
     "org": true
   },
   {
-    "name": "Jason Landbridge",
-    "login": "JasonLandbridge",
-    "avatar": "https://avatars.githubusercontent.com/u/15127381?u=16215285493d7f76868abda2443a5a406a9c6355&v=4",
-    "amount": 10,
-    "link": "https://github.com/JasonLandbridge",
-    "org": false
-  },
-  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
@@ -190,6 +182,14 @@
     "amount": -1,
     "link": "https://github.com/LanguageMonster-com",
     "org": true
+  },
+  {
+    "name": "Jason Landbridge",
+    "login": "JasonLandbridge",
+    "avatar": "https://avatars.githubusercontent.com/u/15127381?u=16215285493d7f76868abda2443a5a406a9c6355&v=4",
+    "amount": -1,
+    "link": "https://github.com/JasonLandbridge",
+    "org": false
   },
   {
     "name": "Onur Usluca",
