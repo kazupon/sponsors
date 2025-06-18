@@ -72,14 +72,6 @@
     "org": true
   },
   {
-    "name": "Loccy",
-    "login": "loccy-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/200973357?v=4",
-    "amount": 11,
-    "link": "https://github.com/loccy-dev",
-    "org": true
-  },
-  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
@@ -166,6 +158,14 @@
     "amount": 1,
     "link": "https://github.com/yosuke-furukawa",
     "org": false
+  },
+  {
+    "name": "Loccy",
+    "login": "loccy-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/200973357?v=4",
+    "amount": -1,
+    "link": "https://github.com/loccy-dev",
+    "org": true
   },
   {
     "name": "Route4Me Route Planner",
