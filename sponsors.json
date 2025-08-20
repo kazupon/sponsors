@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "ZEN ARCHITECTS Co.,Ltd.",
+    "login": "zenarchitects",
+    "avatar": "https://avatars.githubusercontent.com/u/22952383?v=4",
+    "amount": 1000,
+    "link": "https://github.com/zenarchitects",
+    "org": true
+  },
+  {
     "name": "Crowdin",
     "login": "crowdin",
     "avatar": "https://avatars.githubusercontent.com/u/861398?v=4",
@@ -173,14 +181,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/200973357?v=4",
     "amount": -1,
     "link": "https://github.com/loccy-dev",
-    "org": true
-  },
-  {
-    "name": "ZEN ARCHITECTS Co.,Ltd.",
-    "login": "zenarchitects",
-    "avatar": "https://avatars.githubusercontent.com/u/22952383?v=4",
-    "amount": -1,
-    "link": "https://github.com/zenarchitects",
     "org": true
   },
   {
