@@ -72,14 +72,6 @@
     "org": true
   },
   {
-    "name": "Oliver Tacke",
-    "login": "otacke",
-    "avatar": "https://avatars.githubusercontent.com/u/16688047?u=37490b86ccfb7a60b3dfdea411ee196ece08d456&v=4",
-    "amount": 10,
-    "link": "https://github.com/otacke",
-    "org": false
-  },
-  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
@@ -246,6 +238,14 @@
     "amount": -1,
     "link": "https://github.com/formkit",
     "org": true
+  },
+  {
+    "name": "Oliver Tacke",
+    "login": "otacke",
+    "avatar": "https://avatars.githubusercontent.com/u/16688047?u=37490b86ccfb7a60b3dfdea411ee196ece08d456&v=4",
+    "amount": -1,
+    "link": "https://github.com/otacke",
+    "org": false
   },
   {
     "name": "Heiko Peuscher",
