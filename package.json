@@ -30,7 +30,7 @@
     "knip": "^5.46.4",
     "lint-staged": "^16.0.0",
     "prettier": "^3.5.3",
-    "sponsorkit": "^16.4.2",
+    "sponsorkit": "^17.0.0",
     "typescript": "^5.8.2",
     "typescript-eslint": "^8.29.0"
   },
