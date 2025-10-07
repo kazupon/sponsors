@@ -416,14 +416,6 @@
     "org": false
   },
   {
-    "name": "Nuxt",
-    "login": "nuxt",
-    "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4",
-    "amount": -1,
-    "link": "https://github.com/nuxt",
-    "org": true
-  },
-  {
     "name": "CellaJS",
     "login": "cellajs",
     "avatar": "https://avatars.githubusercontent.com/u/150680334?v=4",
