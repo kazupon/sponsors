@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "NuxtLabs",
-    "login": "nuxtlabs",
-    "avatar": "https://avatars.githubusercontent.com/u/62017400?v=4",
-    "amount": 250,
-    "link": "https://github.com/nuxtlabs",
-    "org": true
-  },
-  {
     "name": "Froggly",
     "login": "RocketSoftPL",
     "avatar": "https://avatars.githubusercontent.com/u/79277835?v=4",
@@ -246,6 +238,14 @@
     "amount": -1,
     "link": "https://github.com/otacke",
     "org": false
+  },
+  {
+    "name": "NuxtLabs",
+    "login": "nuxtlabs",
+    "avatar": "https://avatars.githubusercontent.com/u/62017400?v=4",
+    "amount": -1,
+    "link": "https://github.com/nuxtlabs",
+    "org": true
   },
   {
     "name": "Heiko Peuscher",
