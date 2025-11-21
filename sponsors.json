@@ -72,6 +72,14 @@
     "org": true
   },
   {
+    "name": "ryoppippi",
+    "login": "ryoppippi",
+    "avatar": "https://avatars.githubusercontent.com/u/1560508?u=e325f5fc21568f32f5edbe2f9c68b1822c4755ec&v=4",
+    "amount": 10,
+    "link": "https://github.com/ryoppippi",
+    "org": false
+  },
+  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
