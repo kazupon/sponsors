@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "Localazy",
-    "login": "localazy",
-    "avatar": "https://avatars.githubusercontent.com/u/59409404?v=4",
-    "amount": 500,
-    "link": "https://github.com/localazy",
-    "org": true
-  },
-  {
     "name": "Nuxt",
     "login": "nuxt",
     "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4",
@@ -302,6 +294,14 @@
     "amount": -1,
     "link": "https://github.com/brolnickij",
     "org": false
+  },
+  {
+    "name": "Localazy",
+    "login": "localazy",
+    "avatar": "https://avatars.githubusercontent.com/u/59409404?v=4",
+    "amount": -1,
+    "link": "https://github.com/localazy",
+    "org": true
   },
   {
     "name": "Jess",
