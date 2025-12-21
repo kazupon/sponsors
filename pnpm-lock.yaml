@@ -15,8 +15,8 @@ importers:
         specifier: ^0.29.0
         version: 0.29.0(@eslint/markdown@6.3.0)(eslint-config-prettier@10.1.1(eslint@9.23.0(jiti@2.4.2)))(eslint-plugin-jsonc@2.20.0(eslint@9.23.0(jiti@2.4.2)))(eslint-plugin-yml@1.17.0(eslint@9.23.0(jiti@2.4.2)))(eslint@9.23.0(jiti@2.4.2))(typescript-eslint@8.29.0(eslint@9.23.0(jiti@2.4.2))(typescript@5.8.2))(typescript@5.8.2)
       '@kazupon/prettier-config':
-        specifier: ^0.1.1
-        version: 0.1.1
+        specifier: ^0.2.0
+        version: 0.2.0
       '@types/node':
         specifier: ^22.13.15
         version: 22.13.15
@@ -358,9 +358,9 @@ packages:
       '@vue/reactivity':
         optional: true
 
-  '@kazupon/prettier-config@0.1.1':
-    resolution: {integrity: sha512-ppcUP2yPVnvl/ZSixn5+bSOWXXRXt+Xi7Xb1dUME4uKUCIJp5/hvU0HAzbw2GbiVyPzJ3bUxhrogRZ8KLRJLEw==}
-    engines: {node: '>= 18'}
+  '@kazupon/prettier-config@0.2.0':
+    resolution: {integrity: sha512-gZfGSt/9zSYVSQUrsi7N/K9oOTA652Bb5F0K3aNZXl6uoPDG9T36iXCZsKCJ5UnWBGgClA2VG3QYRnGyecUpQg==}
+    engines: {node: '>= 20'}
 
   '@napi-rs/wasm-runtime@0.2.7':
     resolution: {integrity: sha512-5yximcFK5FNompXfJFoWanu5l8v1hNGqNHh9du1xETp9HWk/B/PzvchX55WYOPaIeNglG8++68AAiauBAtbnzw==}
@@ -2066,7 +2066,7 @@ snapshots:
       - typescript
       - unplugin-unused
 
-  '@kazupon/prettier-config@0.1.1': {}
+  '@kazupon/prettier-config@0.2.0': {}
 
   '@napi-rs/wasm-runtime@0.2.7':
     dependencies:
