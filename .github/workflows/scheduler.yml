@@ -40,7 +40,7 @@ jobs:
           SPONSORKIT_GITHUB_TYPE: user
 
       - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: main
           file_pattern: 'sponsors.*'
