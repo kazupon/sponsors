@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "Nuxt",
-    "login": "nuxt",
-    "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4",
-    "amount": 250,
-    "link": "https://github.com/nuxt",
-    "org": true
-  },
-  {
     "name": "Froggly",
     "login": "RocketSoftPL",
     "avatar": "https://avatars.githubusercontent.com/u/79277835?v=4",
@@ -422,6 +414,14 @@
     "amount": -1,
     "link": "https://github.com/Gregg",
     "org": false
+  },
+  {
+    "name": "Nuxt",
+    "login": "nuxt",
+    "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4",
+    "amount": -1,
+    "link": "https://github.com/nuxt",
+    "org": true
   },
   {
     "name": "CellaJS",
