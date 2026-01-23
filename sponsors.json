@@ -16,6 +16,14 @@
     "org": true
   },
   {
+    "name": null,
+    "login": "Bibliotek-Systemer",
+    "avatar": "https://avatars.githubusercontent.com/u/256736520?v=4",
+    "amount": 800,
+    "link": "https://github.com/Bibliotek-Systemer",
+    "org": false
+  },
+  {
     "name": "Crowdin",
     "login": "crowdin",
     "avatar": "https://avatars.githubusercontent.com/u/861398?v=4",
