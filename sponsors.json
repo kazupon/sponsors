@@ -64,6 +64,14 @@
     "org": true
   },
   {
+    "name": "Nishimura Wataru",
+    "login": "WataruNishimura",
+    "avatar": "https://avatars.githubusercontent.com/u/35600017?u=7d25bb94b83a067b1d720faf1c51aed39ad1f713&v=4",
+    "amount": 10,
+    "link": "https://github.com/WataruNishimura",
+    "org": false
+  },
+  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
