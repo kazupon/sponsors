@@ -16,14 +16,6 @@
     "org": true
   },
   {
-    "name": "Bibliotek-Systemer As",
-    "login": "Bibliotek-Systemer",
-    "avatar": "https://avatars.githubusercontent.com/u/256736520?u=89b30945d167ed31effd4941f23737cef33bf366&v=4",
-    "amount": 800,
-    "link": "https://github.com/Bibliotek-Systemer",
-    "org": false
-  },
-  {
     "name": "Crowdin",
     "login": "crowdin",
     "avatar": "https://avatars.githubusercontent.com/u/861398?v=4",
@@ -181,6 +173,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/555645?v=4",
     "amount": 1,
     "link": "https://github.com/yosuke-furukawa",
+    "org": false
+  },
+  {
+    "name": "Bibliotek-Systemer As",
+    "login": "Bibliotek-Systemer",
+    "avatar": "https://avatars.githubusercontent.com/u/256736520?u=89b30945d167ed31effd4941f23737cef33bf366&v=4",
+    "amount": -1,
+    "link": "https://github.com/Bibliotek-Systemer",
     "org": false
   },
   {
