@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "Froggly",
-    "login": "RocketSoftPL",
-    "avatar": "https://avatars.githubusercontent.com/u/79277835?v=4",
-    "amount": 100,
-    "link": "https://github.com/RocketSoftPL",
-    "org": true
-  },
-  {
     "name": "Kazuyuki Miyake",
     "login": "k-miyake",
     "avatar": "https://avatars.githubusercontent.com/u/1104403?u=4f4cedddcc848e62cd8f5c1677a8be3485308b7a&v=4",
@@ -222,6 +214,14 @@
     "amount": -1,
     "link": "https://github.com/onurusluca",
     "org": false
+  },
+  {
+    "name": "Froggly",
+    "login": "RocketSoftPL",
+    "avatar": "https://avatars.githubusercontent.com/u/79277835?v=4",
+    "amount": -1,
+    "link": "https://github.com/RocketSoftPL",
+    "org": true
   },
   {
     "name": null,
