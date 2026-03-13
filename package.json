@@ -19,7 +19,7 @@
     "prepare": "git config --local core.hooksPath .githooks"
   },
   "devDependencies": {
-    "@eslint/markdown": "^6.3.0",
+    "@eslint/markdown": "^7.0.0",
     "@kazupon/eslint-config": "^0.29.0",
     "@kazupon/prettier-config": "^0.1.1",
     "@types/node": "^22.13.15",
