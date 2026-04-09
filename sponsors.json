@@ -32,14 +32,6 @@
     "org": false
   },
   {
-    "name": "ubugeeei",
-    "login": "ubugeeei",
-    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=44f9771e6bc51934d392e86a4644c32c615cdec8&v=4",
-    "amount": 20,
-    "link": "https://github.com/ubugeeei",
-    "org": false
-  },
-  {
     "name": "Numberly",
     "login": "numberly",
     "avatar": "https://avatars.githubusercontent.com/u/5330219?v=4",
@@ -205,6 +197,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/15127381?u=16215285493d7f76868abda2443a5a406a9c6355&v=4",
     "amount": -1,
     "link": "https://github.com/JasonLandbridge",
+    "org": false
+  },
+  {
+    "name": "ubugeeei",
+    "login": "ubugeeei",
+    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=44f9771e6bc51934d392e86a4644c32c615cdec8&v=4",
+    "amount": -1,
+    "link": "https://github.com/ubugeeei",
     "org": false
   },
   {
