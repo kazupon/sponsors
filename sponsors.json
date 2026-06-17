@@ -48,14 +48,6 @@
     "org": true
   },
   {
-    "name": "Nishimura Wataru",
-    "login": "WataruNishimura",
-    "avatar": "https://avatars.githubusercontent.com/u/35600017?u=a02c2f656dc883c6e3011fc49dd1bc00de5dd5fb&v=4",
-    "amount": 10,
-    "link": "https://github.com/WataruNishimura",
-    "org": false
-  },
-  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
@@ -157,6 +149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/555645?v=4",
     "amount": 1,
     "link": "https://github.com/yosuke-furukawa",
+    "org": false
+  },
+  {
+    "name": "Nishimura Wataru",
+    "login": "WataruNishimura",
+    "avatar": "https://avatars.githubusercontent.com/u/35600017?u=a02c2f656dc883c6e3011fc49dd1bc00de5dd5fb&v=4",
+    "amount": -1,
+    "link": "https://github.com/WataruNishimura",
     "org": false
   },
   {
