@@ -40,6 +40,14 @@
     "org": true
   },
   {
+    "name": "Daniel Roe",
+    "login": "danielroe",
+    "avatar": "https://avatars.githubusercontent.com/u/28706372?u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4",
+    "amount": 10,
+    "link": "https://github.com/danielroe",
+    "org": false
+  },
+  {
     "name": "Buttondown",
     "login": "buttondown",
     "avatar": "https://avatars.githubusercontent.com/u/48390753?v=4",
