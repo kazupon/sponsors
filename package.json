@@ -15,7 +15,7 @@
     "@kazupon/vp-config": "^1.0.0",
     "@types/node": "^22.13.15",
     "knip": "^5.46.4",
-    "sponsorkit": "^16.4.2",
+    "sponsorkit": "^18.0.0",
     "typescript": "^5.8.2",
     "vite-plus": "catalog:"
   },
