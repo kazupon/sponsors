@@ -85,6 +85,11 @@ export default defineConfig({
     )
   },
   onSponsorsAllFetched(sponsors) {
+    // ZEN ARCHITECTS is shown as a Gold sponsor ($500/month)
+    const zen = sponsors.find(s => s.sponsor.login === 'zenarchitects')
+    if (zen) {
+      zen.monthlyDollars = 500
+    }
     sponsors.unshift({
       monthlyDollars: Infinity,
       privacyLevel: 'PUBLIC',
