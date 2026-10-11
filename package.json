@@ -21,7 +21,7 @@
   "devDependencies": {
     "@eslint/markdown": "^6.3.0",
     "@kazupon/eslint-config": "^0.29.0",
-    "@kazupon/prettier-config": "^0.1.1",
+    "@kazupon/prettier-config": "^0.2.0",
     "@types/node": "^22.13.15",
     "eslint": "^9.23.0",
     "eslint-config-prettier": "^10.1.1",
