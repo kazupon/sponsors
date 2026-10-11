@@ -4,7 +4,7 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch: # eslint-disable-line yml/no-empty-mapping-value
+  workflow_dispatch:
   schedule:
     - cron: '*/15 * * * *'
   push:
@@ -14,6 +14,9 @@ on:
 jobs:
   update-sponsors:
     runs-on: ubuntu-latest
+    env:
+      # Vite+ git hooks are not needed on CI (including the auto commit)
+      VP_GIT_HOOKS: '0'
     steps:
       - name: Checkout codes
         uses: actions/checkout@v4
