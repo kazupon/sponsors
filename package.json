@@ -16,7 +16,7 @@
     "@types/node": "^22.13.15",
     "knip": "^5.46.4",
     "sponsorkit": "^18.0.0",
-    "typescript": "^5.8.2",
+    "typescript": "^7.0.0",
     "vite-plus": "catalog:"
   },
   "packageManager": "pnpm@12.11.2"
