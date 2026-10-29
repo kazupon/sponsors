@@ -185,8 +185,8 @@ importers:
         specifier: ^6.41.0
         version: 6.41.0
       sponsorkit:
-        specifier: ^18.0.0
-        version: 18.0.0(@types/node@26.6.5)
+        specifier: ^19.0.0
+        version: 19.0.0(@types/node@26.6.5)
       typescript:
         specifier: ^7.0.2
         version: 7.0.2
@@ -1476,8 +1476,8 @@ packages:
   brace-expansion@1.1.21:
     resolution: {integrity: sha512-9zeA+KLZNNzglF2TPKRQEDyx6Yby7daAkuy8MiPzpXPsYDWi/DRM8jmwUDxokQjYqBpv5DgPiwD4h4ZZSy1Ujw==}
 
-  cac@7.0.1:
-    resolution: {integrity: sha512-86diuUyeeWM8CrqhpGCaDafrzjS1s++7sWy2AbAPoFNz/xKv7ID57CR4pZsMuGCh60PtsnEx4z68b+Vgt07VPw==}
+  cac@7.1.0:
+    resolution: {integrity: sha512-LMDU/U2yA4IPIY8KT0NsNPWEYZvAMkbgyspxJ6btJaYV+WMDOHAZCmB0lsTObiHaRS1V/ztKAl7+TSkTqXyeoA==}
     engines: {node: '>=20.19.0'}
 
   callsites@3.1.0:
@@ -1876,9 +1876,9 @@ packages:
   node-fetch-native@1.6.7:
     resolution: {integrity: sha512-g9yhqoedzIUm0nTnTqAQvueMPVOuIY16bqgAJJC8XOOubYFNwz6IER9qs0Gq2Xd0+CecCKFjtdDTMA4u4xG06Q==}
 
-  normalize-url@9.0.1:
-    resolution: {integrity: sha512-ARftfC5HdUNu9jJeL8pHj8debUIHA2b91FizCoMzY4lG6dDX13jdvTK0TBe24IBDRf2HvJSzzwEPvmbkQWHRSg==}
-    engines: {node: '>=20'}
+  normalize-url@10.0.0:
+    resolution: {integrity: sha512-aZEiiOP3lVdNrCCdPELWvJHbjJjoPfbWRLPAZLSsGA6l4ckvPmZSB+uX6JB4QQu33SeXCsd6v75jKivr43n/EQ==}
+    engines: {node: '>=22'}
 
   object-deep-merge@2.0.1:
     resolution: {integrity: sha512-aKttDKcU3pyZqKcCkDhsMn70WmZFG2JGDQLP9EcLyTSIFQRCPWLAmBZRLJnrVUrhPG1jETEEbfdgbNtJf1LyMg==}
@@ -2073,8 +2073,8 @@ packages:
   spdx-license-ids@3.0.24:
     resolution: {integrity: sha512-cLS9TtWkIQFyLkJ3/5aFQAOHOSKTlOs/7WDut/XPSdjom1fJhUdkepeJAKXa9Y05+FabHd0sti+Et559vDtkpQ==}
 
-  sponsorkit@18.0.0:
-    resolution: {integrity: sha512-9Jr+n4SjU8Qtldq8i0UlwwqBEAVy5JFbIQNXRUIs1N+LPTCnX2/of5oyHYftCLi3KxAODVMmyEdWqkJMTagR6w==}
+  sponsorkit@19.0.0:
+    resolution: {integrity: sha512-srRaflySPU40DjZ07DUnxF9VhnbotupyIs1ahUXNLWf+T2V75uELRxCEmzeB7CE3WYhrsLC2JYRrtNlWQlPmtw==}
     engines: {node: ^22.18.0 || ^24.11.0 || >=26.0.0}
     hasBin: true
 
@@ -3172,7 +3172,7 @@ snapshots:
       balanced-match: 1.0.2
       concat-map: 0.0.1
 
-  cac@7.0.1: {}
+  cac@7.1.0: {}
 
   callsites@3.1.0: {}
 
@@ -3519,7 +3519,7 @@ snapshots:
 
   node-fetch-native@1.6.7: {}
 
-  normalize-url@9.0.1: {}
+  normalize-url@10.0.0: {}
 
   object-deep-merge@2.0.1: {}
 
@@ -3790,13 +3790,13 @@ snapshots:
 
   spdx-license-ids@3.0.24: {}
 
-  sponsorkit@18.0.0(@types/node@26.6.5):
+  sponsorkit@19.0.0(@types/node@26.6.5):
     dependencies:
       ansis: 4.4.0
-      cac: 7.0.1
+      cac: 7.1.0
       consola: 3.4.2
       d3-hierarchy: 3.1.2
-      normalize-url: 9.0.1
+      normalize-url: 10.0.0
       ofetch: 1.5.1
       p-limit: 7.3.3
       sharp: 0.35.5(@types/node@26.6.5)
