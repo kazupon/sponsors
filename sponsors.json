@@ -136,14 +136,6 @@
     "org": false
   },
   {
-    "name": "Akiho Nagao",
-    "login": "akifo",
-    "avatar": "https://avatars.githubusercontent.com/u/7263054?u=345f097513ac1ce36dc10e8e1ac829c1840418b0&v=4",
-    "amount": 5,
-    "link": "https://github.com/akifo",
-    "org": false
-  },
-  {
     "name": "Shun Watanabe",
     "login": "shika358",
     "avatar": "https://avatars.githubusercontent.com/u/16434975?u=bb3ca4e36931f228b89830abad0883d4a478e16a&v=4",
@@ -549,6 +541,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/60215365?u=8756228e08047e44c57cd1573e2dd7fd4a414dfa&v=4",
     "amount": -1,
     "link": "https://github.com/ex-kimura",
+    "org": false
+  },
+  {
+    "name": "Akiho Nagao",
+    "login": "akifo",
+    "avatar": "https://avatars.githubusercontent.com/u/7263054?u=345f097513ac1ce36dc10e8e1ac829c1840418b0&v=4",
+    "amount": -1,
+    "link": "https://github.com/akifo",
     "org": false
   },
   {
